@@ -29,3 +29,8 @@ function resetDigit() {
   document.getElementById("output").innerHTML = '';
   document.getElementById("output1").innerHTML = '';
 }
+
+
+//Github:
+$ cat .gitattributes
+  *.rb linguist-language=JavaScript
